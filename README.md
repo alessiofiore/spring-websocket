@@ -18,5 +18,5 @@ To test open in you browser this URL to initialize a WebSocket:
 
 http://localhost:8080/webSocket
 
-Click Open to initialize a new WebSocket
-Click Sent to send a message on WebSocket
+- Click Open to initialize a new WebSocket
+- Click Sent to send a message on WebSocket
